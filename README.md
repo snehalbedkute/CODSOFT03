@@ -50,4 +50,9 @@ The following Python libraries were used to complete this task:
 
 This project successfully demonstrates how machine learning can be used to classify Iris flower species using a Random Forest model. The model showed high accuracy, validating the effectiveness of feature engineering and supervised learning methods on structured datasets.
 
+**Name:** Snehal Bedkute  
+**Internship:** CodSoft - Data Science Internship 
+
+#CodSoft
+
 
